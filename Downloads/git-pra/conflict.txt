@@ -1,0 +1,1 @@
+echo "Line from conflict branch"
