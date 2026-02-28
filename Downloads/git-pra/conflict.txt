@@ -1,0 +1,3 @@
+
+echo "Different line from main"
+echo "Line from conflict branch"
