@@ -1,1 +1,2 @@
 echo "Login page created"
+echo "Login validation added"
