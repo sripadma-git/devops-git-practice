@@ -12,10 +12,13 @@ Sets global username.
 Example:
 git config --global user.name "Sri Padma"
 
+
+
 ### git config --global user.email
 Sets global email.
 Example:
 git config --global user.email "example@gmail.com"
+
 
 ---
 
@@ -40,6 +43,7 @@ git add git-commands.md
 Creates a snapshot of staged changes.
 Example:
 git commit -m "Initial commit"
+
 
 ---
 
